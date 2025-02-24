@@ -1,0 +1,12 @@
+Text: #include <iostream>		 Token: PREPROCESSOR.	 Line Number: 1
+Text: using namespace std;		 Token: KEYWORD_USING_NAMESPACE_STD.	 Line Number: 2
+Text: int		 Token: DATATYPE_INT.	 Line Number: 4
+Text: main		 Token: KEYWORD_MAIN.	 Line Number: 4
+Text: (		 Token: LEFT_PAREN.	 Line Number: 4
+Text: )		 Token: RIGHT_PAREN.	 Line Number: 4
+Text: {		 Token: LEFT_BRACE.	 Line Number: 4
+Text: cout		 Token: LIBRARY_FUNC_OUTPUT.	 Line Number: 5
+Text: <<		 Token: STREAM_INSERTION.	 Line Number: 5
+Text: "Hello World!"		 Token: STRING.	 Line Number: 5
+Text: ;		 Token: SEMI.	 Line Number: 5
+Text: }		 Token: RIGHT_BRACE.	 Line Number: 6
